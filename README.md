@@ -3,13 +3,7 @@
 ## 1. Motivation & Description
 In recent years, the Singapore government introduced the Nutri-Grade system to classify beverages into four categories (A to D) based on healthiness. However, an equivalent classification system for food items has yet to be established.
 
-This project aims to bridge that gap by developing a deep learning model that assesses the healthiness of food, supporting individuals and professionals in making informed dietary choices. Our system allows users to upload images of meals and receive instant statistics on their Nutri-Grade classifications.
-
-**Team Members:**
-* GUO AI
-* LIM WEN LONG
-* XU FANGZHOU
-* ZHANG YIPING
+This project aims to bridge that gap by developing a deep learning model that assesses the healthiness of food, supporting individuals and professionals in making informed dietary choices. Our system allows users to upload images of meals and receive instant statistics on their Nutri-Grade classifications
 
 ---
 
