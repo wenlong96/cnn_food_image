@@ -1,0 +1,10 @@
+1. 78-Class Model (model 1): Model that classifies images into 78 categories, which are then mapped to nutrition grades using a pre-defined mapping.
+(1) image_to_nutri_grade_transformer.ipynb: base model
+(2) transformer-solve-overfitting-1.ipynb: partially improved model with regularization: dropout, reduce model complexity, data augmentation - tried but not used, early stopping
+(3) transformer-solve-overfitting-2.ipynb: improved model with everything mentioned in report (regularization: dropout, regularization: weight decay, reduce model complexity, data augmentation - tried but not used, early stopping, learning rate scheduler, batch normalization)
+2. Hierarchical Model (model 2): Model configured to output 78 categories, followed by an additional layer that maps these categories to 4 nutrition grades
+(1) transformer-78-to-4.ipynb: base model
+(2) transformer-78-to-4-modified.ipynb: improved model
+3. Direct 4-Class Model: Model that directly predicts scores for the 4 nutrition grades.
+(1) transformer-directly-to-4.ipynb: base model
+(2) transformer-directly-to-4-modified.ipynb: improved model
